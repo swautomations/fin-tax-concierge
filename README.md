@@ -118,7 +118,7 @@ graph TD
    git add .
    git commit -m "Initial commit: fin-tax-concierge ADK agent"
    git branch -M main
-   git remote add origin https://github.com/<your-username>/fin-tax-concierge.git
+   git remote add origin https://github.com/swautomations/fin-tax-concierge.git
    git push -u origin main
    ```
 
