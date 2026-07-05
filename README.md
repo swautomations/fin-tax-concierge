@@ -142,6 +142,3 @@ graph TD
 
 ---
 
-## Demo Script
-
-A conversational demo script is available at [DEMO_SCRIPT.txt](DEMO_SCRIPT.txt).
